@@ -192,3 +192,19 @@ class TestModelTraining(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 ```
+
+## Documentation
+
+Refers to a comprehensive documentation for each module and the overall project in the Documentation.md file to know more about the Functionalities, requirements, etc.
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/psicoder85/fortes-detekt-drops/license.md) file for details.
+
+## Contact
+
+For any questions or inquiries, please contact:
+
+Author: PSI Coder 85
+GitHub: [PSICoder85](https://github.com/psicoder85/)
